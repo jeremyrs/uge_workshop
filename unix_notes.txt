@@ -56,3 +56,4 @@ cd (only brings you to your root directory)
 ~ (tilda represents your root directory)
 ln (creates a link)
 
+subl . will pull up all files in current directory
