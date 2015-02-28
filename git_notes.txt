@@ -1,0 +1,2 @@
+git branch
+will create an other branch in your master
